@@ -1,14 +1,15 @@
-@use '../util' as *;
-
+@use "../util" as *;
+@import url("https://fonts.googleapis.com/css2?family=Istok+Web:wght@700&family=Mukta&family=Outfit:wght@300;400;600&display=swap");
+body{Font-size : 18px} 
 h1,
 h2,
 h3 {
-	margin-top: 0;
-	line-height: 1.1;
+  margin-top: 0;
+  line-height: 1.1;
 }
 
 a,
 a:visited,
 a:active {
-	text-decoration: none;
+  text-decoration: none;
 }
