@@ -1,1 +1,9 @@
-
+@mixin flex {
+    display: flex;
+    justify-content: space-between;
+    
+}
+@mixin border-radius($border:10px) {
+    border-radius: $border;
+    
+}
